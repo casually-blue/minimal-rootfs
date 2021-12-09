@@ -1,2 +1,3 @@
 let PROMPT = ">> "
 alias ls='exa'
+alias clear='echo -en \ec'
